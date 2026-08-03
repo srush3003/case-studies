@@ -1,6 +1,5 @@
-# ISO 27001 Certification, Led End to End
+# Information Security Governance System (ISO 27001)
 
-![ISO 27001 Certification Case Study](images/iso-27001-certification.png)
 
 ## Context
 
