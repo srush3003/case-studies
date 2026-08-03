@@ -1,6 +1,5 @@
-# Ops Guidebook Extraction
+# Knowledge Capture & Operational Playbook Design
 
-![Ops Guidebook Extraction](images/ops-guidebook-extraction.png)
 
 ## Snapshot
 
