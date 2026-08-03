@@ -1,4 +1,4 @@
-# Migration: ClickUp → Productive
+# Operations Platform Migration & Resource Planning
 
 ![Migration Case Study](images/migration-clickup-productive.png)
 
