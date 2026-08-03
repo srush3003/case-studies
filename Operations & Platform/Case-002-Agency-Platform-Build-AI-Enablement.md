@@ -1,6 +1,5 @@
 # AI Enablement +  Operations Platform Consolidation
 
-![Agency Platform Build](images/agency-platform-build-ai-enablement.png)
 
 ## Context
 
