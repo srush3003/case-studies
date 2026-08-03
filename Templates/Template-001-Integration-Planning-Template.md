@@ -1,6 +1,5 @@
-# Integration Planning Template
+# Integration Planning & Delivery Readiness Framework
 
-![Integration Planning Template](images/integration-planning-template.png)
 
 Prevent integration delays by mapping dependencies before development starts.
 
